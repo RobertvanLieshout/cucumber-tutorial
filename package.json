@@ -1,0 +1,14 @@
+{
+  "name": "cucumber-tutorial",
+  "version": "0.0.1",
+  "description": "A gentle introduction to cucumber-js",
+  "main": "app.js",
+  "repository": "",
+  "author": "Robert van Lieshout <robert@pragmaticall.nl>",
+  "devDependencies": {
+    "cucumber": "latest",
+    "grunt": "latest",
+    "grunt-cli": "^1.2.0",
+    "grunt-cucumber": "latest"
+  }
+}
